@@ -10,7 +10,6 @@ const HeroSection = () => {
         loop
         muted
         playsInline
-        poster=" " // Optional: A poster image in case the video doesn't play
         style={{
           position: 'absolute',
           width: '100%',
