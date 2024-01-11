@@ -37,13 +37,13 @@ const HeroSection = () => {
 
       {/* Content */}
       <VStack zIndex={1} position="relative" spacing={4} justify="center" h="full">
-        <Heading as="h1" size="2xl" color="gold" mt="20vh">
+        <Heading as="h1" size="2xl" color="white" mt="20vh">
           Powering the Future with Solar Energy
         </Heading>
         <Text color="gray.300" my={4}>
           Innovative and Sustainable Solar Solutions for Your Home and Business
         </Text>
-        <Button colorScheme="yellow" variant="outline">
+        <Button colorScheme="white" variant="outline">
           Learn More
         </Button>
       </VStack>
